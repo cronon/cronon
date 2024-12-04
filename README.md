@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🌍 [https://lingopraxis.com](lingopraxis.com) Speaking practice app: pick a time, schedule a meeting and have a call with speaking partners from the internet.
-🎵 [https://youtube.com/@kiara22](youtube.com/@kiara22) the songs I make
+🌍 [lingopraxis.com](https://lingopraxis.com) Speaking practice app: pick a time, schedule a meeting and have a call with speaking partners from the internet.
+🎵 [youtube.com/@kiara22](https://youtube.com/@kiara22) the songs I make
 
 <!--
 **cronon/cronon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
